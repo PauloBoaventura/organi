@@ -152,7 +152,7 @@
         "dotenv-expand": "^5.1.0",
         "ee-first": "^1.1.1",
         "electron-to-chromium": "^1.5.24",
-        "elliptic": "^6.5.7",
+        "elliptic": "^6.6.0",
         "emoji-regex": "^8.0.0",
         "emojis-list": "^3.0.0",
         "encodeurl": "^2.0.0",
